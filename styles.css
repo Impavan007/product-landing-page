@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+     max-width: 80vw;
+}
+.topleft{
+    width: 50%;
+}
+.topright{
+    width: 50%;
+    height: 50vh;
+}
+.section1{
+    min-height: 100vh;}
+.img2{
+    height: 149px;
+    width: 147px;
+    padding: 0 171px;
+}
+.section2{
+    padding-left: 33px;
+    padding-right: 63px;
+}
+.box ul{
+    list-style: none;
+
+}
+.box ul li{
+    margin: 12px 2px;
+
+    
+}
+.section3 table{
+    width: 100%;
+    margin-bottom: 140px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.section3 table th{ 
+    width: 23vw; 
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+} 
+
+.section3 table td{   
+    border-bottom: 2px solid black; 
+} 
+ 
+
+.section3 h1{
+    font-size: 2.3rem;
+}
+
+.section3{
+    padding: 73px;
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
+
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
+.d2{
+    padding-left:89px ;
+}
+.section3{
+   padding-left: 10%;
+}
+.header{
+    position: fixed;
+}
